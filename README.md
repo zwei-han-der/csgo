@@ -1,4 +1,4 @@
-# Zweihander's cfg
+# zweihander's config
 
 Before starting the game, add these parameters to the launch options
 
