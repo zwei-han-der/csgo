@@ -1,0 +1,36 @@
+"appid_override"		"730"
+"ranks"
+{
+	"competitive_rank"		"18"
+	"competitive_wins"		"67"
+	"wingman_rank"		"18"
+	"wingman_wins"		"67"
+	"dangerzone_rank"		"15"
+	"dangerzone_wins"		"67"
+}
+"vac_banned"		"0"
+"cmd_friendly"		"20"
+"cmd_teaching"		"20"
+"cmd_leader"		"27"
+"player_level"		"67"
+"player_cur_xp"		"3105"
+"rarity_weights"
+{
+	"1"		"10000000"
+	"2"		"2000000"
+	"3"		"400000"
+	"4"		"80000"
+	"5"		"16000"
+	"6"		"3200"
+	"99"		"1280"
+}
+"destroy_used_items"		"0"
+"show_csgo_gc_servers_only"		"0"
+"rcon"
+{
+	"bind_address"		"127.0.0.1"
+	"enabled"		"0"
+	"password"		""
+	"port"		"37016"
+}
+"log_output"		"0"

@@ -1,0 +1,440 @@
+"items"
+{
+    // === Knifes ===
+	"3" // ★ M9 Bayonet | Doppler Ruby
+	{
+		"inventory"		"1"
+		"def_index"		"508"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"415.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+	"4" // ★ Karambit | Stained
+	{
+		"inventory"		"2"
+		"def_index"		"507"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"43.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+	"5" // ★ Huntsman Knife | Stained
+	{
+		"inventory"		"3"
+		"def_index"		"509"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"43.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+	"6" // ★ M9 Bayonet | Black Laminate
+	{
+		"inventory"		"4"
+		"def_index"		"508"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"567.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+	"7" // ★ Butterfly Knife | Black Laminate
+	{
+		"inventory"		"5"
+		"def_index"		"515"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"1110.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+
+    // === Agents ===
+    "101" // Number K | The Professionals
+	{
+		"inventory"		"100"
+		"def_index"		"4732"
+		"level"         "1"
+        "quality"       "0"
+        "flags"         "0"
+        "origin"        "8"
+        "in_use"        "0"
+        "rarity"        "5"
+    }
+    "102" // Special Agent Ava | FBI
+	{
+		"inventory"		"101"
+		"def_index"		"5308"
+		"level"         "1"
+        "quality"       "0"
+        "flags"         "0"
+        "origin"        "8"
+        "in_use"        "0"
+        "rarity"        "6"
+    }
+
+    // === Gloves ===
+    "201" // ★ Driver Gloves | Snow Leopard
+	{
+		"inventory"		"200"
+		"def_index"		"5031"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10070.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "202" // ★ Sport Gloves | Slingshot
+	{
+		"inventory"		"201"
+		"def_index"		"5030"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10073.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "203" // ★ Sport Gloves | Nocts
+	{
+		"inventory"		"202"
+		"def_index"		"5030"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10076.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "204" // ★ Sport Gloves | Amphibious
+	{
+		"inventory"		"203"
+		"def_index"		"5030"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10045.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "204" // ★ Sport Gloves | Vice
+	{
+		"inventory"		"203"
+		"def_index"		"5030"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10048.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "205" // ★ Sport Gloves | Bronze Morph
+	{
+		"inventory"		"204"
+		"def_index"		"5030"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10046.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "206" // ★ Sport Gloves | Pandora's Box
+	{
+		"inventory"		"205"
+		"def_index"		"5030"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10037.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "207" // ★ Sport Gloves | Hedge Maze
+	{
+		"inventory"		"206"
+		"def_index"		"5030"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10038.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "208" // ★ Specialist Gloves | Fade
+	{
+		"inventory"		"207"
+		"def_index"		"5034"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10063.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "209" // ★ Specialist Gloves | Crimson Web
+	{
+		"inventory"		"208"
+		"def_index"		"5034"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10061.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "210" // ★ Specialist Gloves | Crimson Kimono
+	{
+		"inventory"		"209"
+		"def_index"		"5034"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10033.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "211" // ★ Specialist Gloves | Emerald Web
+	{
+		"inventory"		"210"
+		"def_index"		"5034"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10034.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "212" // ★ Driver Gloves | King Snake
+	{
+		"inventory"		"211"
+		"def_index"		"5031"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10041.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "213" // ★ Driver Gloves | Crimson Weave
+	{
+		"inventory"		"212"
+		"def_index"		"5031"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10016.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "214" // ★ Hand Wraps | Slaughter
+	{
+		"inventory"		"213"
+		"def_index"		"5032"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10021.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+    "215" // ★ Hand Wraps | Cobalt Skulls
+	{
+		"inventory"		"214"
+		"def_index"		"5032"
+		"level"		    "1"
+		"quality"		"3"
+		"flags"		    "0"
+		"origin"		"0"
+		"in_use"		"0"
+		"rarity"		"6"
+		"attributes"
+		{
+			"6"		"10053.000000"
+			"7"		"0.000000"
+			"8"		"0.000000"
+		}
+	}
+
+    // Weapons
+    "301" // AK-47 | Leet Museo
+    {
+        "inventory"        "300"
+        "def_index"        "7"
+        "level"            "1"
+        "quality"          "0"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "6"
+        "attributes"
+        {
+            "6"  "1087.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
+    "302" // AK-47 | Slate
+    {
+        "inventory"        "301"
+        "def_index"        "7"
+        "level"            "1"
+        "quality"          "0"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "4"
+        "attributes"
+        {
+            "6"  "1035.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
+    "303" // AK-47 | X-Ray
+    {
+        "inventory"        "302"
+        "def_index"        "7"
+        "level"            "1"
+        "quality"          "0"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "6"
+        "attributes"
+        {
+            "6"  "1004.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
+}
