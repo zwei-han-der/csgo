@@ -437,4 +437,106 @@
             "8"  "0.000000"
         }
     }
+    "304" // Galil AR | Eco
+    {
+        "inventory"        "303"
+        "def_index"        "13"
+        "level"            "1"
+        "quality"          "12"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "5"
+        "attributes"
+        {
+            "6"  "428.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
+    "305" // Galil AR | Tuxedo
+    {
+        "inventory"        "304"
+        "def_index"        "13"
+        "level"            "1"
+        "quality"          "12"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "3"
+        "attributes"
+        {
+            "6"  "297.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
+    "306" // Galil AR | Akoben
+    {
+        "inventory"        "305"
+        "def_index"        "13"
+        "level"            "1"
+        "quality"          "12"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "3"
+        "attributes"
+        {
+            "6"  "842.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
+    "307" // Galil AR | NV
+    {
+        "inventory"        "306"
+        "def_index"        "13"
+        "level"            "1"
+        "quality"          "12"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "2"
+        "attributes"
+        {
+            "6"  "939.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
+    "308" // SG 553 | Integrale
+    {
+        "inventory"        "306"
+        "def_index"        "39"
+        "level"            "1"
+        "quality"          "12"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "5"
+        "attributes"
+        {
+            "6"  "750.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
+    "309" // SG 553 | Hypnotic
+    {
+        "inventory"        "308"
+        "def_index"        "39"
+        "level"            "1"
+        "quality"          "12"
+        "flags"            "0"
+        "origin"           "8"
+        "in_use"           "0"
+        "rarity"           "4"
+        "attributes"
+        {
+            "6"  "61.000000"
+            "7"  "0.000000"
+            "8"  "0.000000"
+        }
+    }
 }
